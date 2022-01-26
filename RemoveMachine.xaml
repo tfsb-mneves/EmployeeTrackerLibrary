@@ -166,7 +166,6 @@
                                     <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="486,1004" sap2010:WorkflowViewState.IdRef="Sequence_7">
                                       <Sequence.Variables>
                                         <Variable x:TypeArguments="scg:List(x:String)" Name="ary_string_EmployeeMachines" />
-                                        <Variable x:TypeArguments="scg:List(x:String)" Name="variable1" />
                                       </Sequence.Variables>
                                       <sap:WorkflowViewStateService.ViewState>
                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
